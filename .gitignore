@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.env
+backend/chroma_db/
+backend/media/user_uploads/
+frontend/node_modules/
+frontend/dist/
+.DS_Store
+Thumbs.db
